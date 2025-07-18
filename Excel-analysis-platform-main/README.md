@@ -42,7 +42,6 @@ Excel Analysis Platform is a full-stack web application that empowers users to e
 ## Folder Structure
 ```
 Excel-analysis-platform/
-├── User/
 │   ├── backend/
 │   │   ├── config/           # DB config
 │   │   ├── controllers/      # Route controllers (auth, file, chart, etc.)
